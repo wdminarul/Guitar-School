@@ -1,0 +1,40 @@
+[
+    {
+      "key":"1",
+      "title":"Dental Implants",
+      "details":"Dental implants are replacement tooth roots...",
+	  "description":"The first step in the dental implant process is the development of an individualized treatment plan. The plan addresses your specific needs and is prepared by a team of professionals who are specially trained and experienced in oral surgery and restorative dentistry. This team approach provides coordinated care based on the implant option that is best for you",
+      "img":"http://html.inspirydemos.com/medicalpress/images/temp-images/service-3.jpg"
+    }, {
+      "key":"2",
+      "title":"Blood Bank",
+      "details":"Evercare Blood Bank is a place for collecting, screening...",
+	  "description":"Evercare Blood Bank is a place for collecting, screening, typing, processing, and storing whole blood, packed red blood cells, fresh frozen plasma and platelet concentrate, gathered as a result of blood donation, preserved for patient use in this hospital and other hospitals on request. Evercare Blood Bank, located in basement level of the hospital, is the first government registered hospital blood bank in Dhaka Metropolitan Area. We are committed to keeping pace with the demands of providing 24-hour service by cutting-edge technology and the most secure blood transfusion policy.",
+      "img":"http://html.inspirydemos.com/medicalpress/images/temp-images/service-2.jpg"
+    }, {
+      "key":"3",
+      "title":"Medicine Research",
+      "details":"Medical research involves research in a wide range of fields...",
+      "description":"Medical research involves research in a wide range of fields, such as biology, chemistry, pharmacology and toxicology with the goal of developing new medicines or medical procedures or improving the application of those already available. It can be viewed as encompassing preclinical research (for example, in cellular systems and animal models) and clinical research (for example, clinical trials).",
+      "img":"http://html.inspirydemos.com/medicalpress/images/temp-images/service-5.jpg"
+    }, {
+      "key":"4",
+      "title":"Pharmaceutical",
+      "details":"Community pharmacists provide an advisory service to care...",
+      "description":"Community pharmacists provide an advisory service to care homes within Herefordshire, with over 85 local care homes visited during the past year.  The visiting pharmacist is usually the pharmacist that supplies the medicines to the home and they will provide advice on medicine storage, record keeping, staff training, and ways of reducing risks around ordering, receiving and administering medicines to patients.",
+      "img":"http://html.inspirydemos.com/medicalpress/images/temp-images/service-4.jpg"
+    },{
+      "key":"5",
+      "title":"Medical Counseling",
+      "details":"Take a moment to imagine the following scene,...",
+      "description":"Take a moment to imagine the following scene, with you as the protagonist: A few days ago, you woke, went for a run, had breakfast and headed to work, where you attended a committee meeting. The next thing you remember is lying in a hospital bed and being told that you had a stroke. You seem unable to move or feel one of your legs.",
+      "img":"http://html.inspirydemos.com/medicalpress/images/temp-images/service-1.jpg"
+    },{
+      "key":"6",
+      "title":"Ambulance Service ",
+      "details":"The Scottish Ambulance Service is on the frontline of the NHS...",
+      "description":"The Scottish Ambulance Service is on the frontline of the NHS, despatching immediate medical assistance or clinical advice to over 5 million people across Scotland. Our aim is to offer the highest level of care to our patients as we preserve life and promote recovery, with our skilled workforce bringing care and compassion to those who need it most.",
+      "img":"https://www.londonambulance.nhs.uk/wp-content/uploads/2020/10/Debbie-Liam-Ambulance-S6-Hirez-1843-460x307.jpg"
+    }
+ 
+    ]

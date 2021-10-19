@@ -1,0 +1,17 @@
+.img-section{
+    width: 100%;
+}
+.services-main{
+    background-color: rgb(255, 255, 255);
+}
+.single-service{
+    height: auto;
+    border:1px solid rgb(91, 253, 253);
+    border-radius: 15px;
+    background-color: aliceblue;
+    transition: 0.4s all ease;
+}
+.single-service:hover{
+    background-color: rgb(91, 253, 253);
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.google-logo{
+    width:50px;
+    border-radius: 10px;
+    border:1px solid green;
+}
+.main-form{
+    margin:0 auto;
+    text-align: center;
+    border: 1px solid green;
+    width:300px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.main-form img{
+    width: 100%;
+}

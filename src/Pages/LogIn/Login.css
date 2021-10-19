@@ -1,0 +1,11 @@
+.google-logo{
+    width:50px;
+    border-radius: 10px;
+    border:none;
+}
+.main-form{
+    margin:0 auto;
+    text-align: center;
+    border: 1px solid green;
+    width:300px;
+}

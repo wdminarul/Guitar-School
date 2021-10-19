@@ -1,0 +1,40 @@
+[
+    {
+      "key":"1",
+      "name":"Dr. Dalay vena",
+      "details":"She also got M.S. from BSMMU in 1997, FMAS from Gangaram Hospital, New Delhi in 2003, DMIS from France in 2013. He also visited different countries like India, Singapore, HongKong, Japan, German, France in the field of laparoscopic surgery centre.",
+      "phone":"+08565332",
+      "img":"https://media.gettyimages.com/photos/mature-female-doctor-standing-in-hallway-arms-crossed-picture-id200489711-001?k=20&m=200489711-001&s=612x612&w=0&h=e__KiyOBGGkMgE7KAWzuCD_CsUosIYyBtN0hZ1MIvoA="
+    }, {
+      "key":"2",
+      "name":"Dr. retnar",
+      "phone":"+098684-34",
+      "details":"She also got M.S. from BSMMU in 1997, FMAS from Gangaram Hospital, New Delhi in 2003, DMIS from France in 2013. He also visited different countries like India, Singapore, HongKong, Japan, German, France in the field of laparoscopic surgery centre.",
+      "img":"https://media.gettyimages.com/photos/portrait-of-a-doctor-picture-id92347235?k=20&m=92347235&s=612x612&w=0&h=Jf3Nw7YYvzO9JJ7rk2maG_jNh99OZMhflemq_Jqg3aM="
+    }, {
+      "key":"3",
+      "name":"Dr. geroge tom",
+      "phone":"+09678-7898",
+      "details":"He also got M.S. from BSMMU in 1997, FMAS from Gangaram Hospital, New Delhi in 2003, DMIS from France in 2013. He also visited different countries like India, Singapore, HongKong, Japan, German, France in the field of laparoscopic surgery centre.",
+      "img":"https://media.gettyimages.com/photos/portrait-of-confident-doctor-with-hands-in-pockets-standing-in-picture-id1289378590?k=20&m=1289378590&s=612x612&w=0&h=9EoB5rBv3NFITD_Uz4p8ghXHQw2WYnOjpboMs1pyQ7Q="
+    }, {
+      "key":"4",
+      "name":"Dr jerry ferha",
+      "phone":"+089567-34",
+      "details":"She also got M.S. from BSMMU in 1997, FMAS from Gangaram Hospital, New Delhi in 2003, DMIS from France in 2013. He also visited different countries like India, Singapore, HongKong, Japan, German, France in the field of laparoscopic surgery centre.",
+      "img":"https://media.gettyimages.com/photos/confident-female-doctor-with-arms-crossed-standing-in-hospital-picture-id1289378690?k=20&m=1289378690&s=612x612&w=0&h=ppBwad0g8FbjXvBrjqGcNqPvshTEBRFd-uMc6cU-U7Q="
+    },{
+      "key":"5",
+      "name":"Dr. Aliva",
+      "phone":"+089467-679",
+      "details":"She also got M.S. from BSMMU in 1997, FMAS from Gangaram Hospital, New Delhi in 2003, DMIS from France in 2013. He also visited different countries like India, Singapore, HongKong, Japan, German, France in the field of laparoscopic surgery centre.",
+      "img":"https://media.gettyimages.com/photos/california-los-angeles-portrait-of-smiling-female-doctor-picture-id140195564?k=20&m=140195564&s=612x612&w=0&h=UkLVr2PDc5VwzjrRb55GS_As8hJ-q83U04jXXD9ZBWo="
+    },{
+      "key":"6",
+      "name":"Dr. Davil alis",
+      "phone":"+0956-3788",
+      "details":"He also got M.S. from BSMMU in 1997, FMAS from Gangaram Hospital, New Delhi in 2003, DMIS from France in 2013. He also visited different countries like India, Singapore, HongKong, Japan, German, France in the field of laparoscopic surgery centre.",
+      "img":"https://media.gettyimages.com/photos/portrait-of-doctor-picture-id534009138?k=20&m=534009138&s=612x612&w=0&h=bn0mSozqD1QbNfAVqdI1f1WKUkttquVvPp1t_UZ2d5k="
+    }
+ 
+    ]
