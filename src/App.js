@@ -35,6 +35,7 @@ function App() {
               <Route exact path="/contact">
                 <Contact></Contact>
               </Route>
+              {/* privet route for booking  */}
               <PrivateRoute exact path="/booking/:serviceid">
                 <Booking></Booking>
               </PrivateRoute>

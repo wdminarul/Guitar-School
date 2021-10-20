@@ -26,6 +26,7 @@ const useFirebase =()=>{
         createUserWithEmailAndPassword(auth, email, password)
         .then(result=>{
             setUser(result.user)
+            setError('')
         })
         
         .catch(error=>{
@@ -39,9 +40,12 @@ const useFirebase =()=>{
         signInWithEmailAndPassword(auth, email, password)
         .then(result=>{
             setUser(result.user)
+            setError('')
+
         })
         .catch(error=>{
-            setError(error.message);
+       setError(error)
+       setError("You have no account")
         })
         .finally(() => setIsLoading(false));
 

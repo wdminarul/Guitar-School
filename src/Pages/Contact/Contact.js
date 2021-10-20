@@ -1,10 +1,15 @@
 import Button from '@restart/ui/esm/Button';
 import React from 'react';
 import { Col, Form, Row } from 'react-bootstrap';
+import { useHistory } from 'react-router';
 import logo from "../../images/logo-two.png"
 import "./contact.css"
 
 const Contact = () => {
+  const history =useHistory();
+  const back =()=>{
+    history.push("/home")
+  }
     return (
         <div className="cover my-5">
             <div className="container">
@@ -61,7 +66,7 @@ const Contact = () => {
     <Form.Check type="checkbox" label="Check me out" />
   </Form.Group>
 
-  <Button variant="success" type="" className="btn btn-success">
+  <Button variant="success" type="" className="btn btn-success" onClick={back}>
     Submit
   </Button>
 </Form>

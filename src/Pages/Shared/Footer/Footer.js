@@ -22,6 +22,7 @@ const Footer = () => {
     <p>Ambulance</p>
     <hr/>
     </Col>
+    {/* Footer form for subscribe  */}
     <Col xs={6} md={4} className="p-3">
     <h2 className="subscriber">Subscribe</h2>
     <Form>

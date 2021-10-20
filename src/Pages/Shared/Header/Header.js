@@ -1,6 +1,7 @@
 import React from 'react';
 import { Button, Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import { useHistory } from 'react-router';
 import { HashLink } from 'react-router-hash-link';
 import useAuth from '../../../hooks/useAuth';
 import logo from "../../../images/logo-two.png"
@@ -8,11 +9,15 @@ import "./Header.css"
 
 const Header = () => {
 const {user,logOut}= useAuth()
+const history =useHistory()
+const back=()=>{
+  history.push("/home")
+}
     return (
         <div>
             <Navbar collapseOnSelect expand="lg" bg="success" variant="dark"  sticky="top">
   <Container>
-  <Navbar.Brand href="#home"><img src={logo} alt="" /></Navbar.Brand>
+  <Navbar.Brand href="#home" onclick={back}><img src={logo} alt="" /></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="ms-auto">

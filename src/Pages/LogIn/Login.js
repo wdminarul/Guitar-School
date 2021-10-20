@@ -5,19 +5,19 @@ import googleLogo from"../../images/google.png"
 import  "./Login.css"
 
 const Login = () => {
-    const [email,setEmail]=useState('');
-    const [password,setPassword]=useState();
-    const {signInUsingEmail,signInUsingGoogle,error} =useAuth()
+    const [email,setEmail]=useState({});
+    const [password,setPassword]=useState({});
+    const {signInUsingEmail,signInUsingGoogle,} =useAuth();
     const handleEmail=e=>{
         setEmail(e.target.value)
     }
     const handlePassword =e =>{
         setPassword(e.target.value)
     }
-    
+
     const handleLogin = e => {
         e.preventDefault();
-        signInUsingEmail(email,password)
+        signInUsingEmail(email,password,)
     
       }
 
@@ -30,10 +30,10 @@ const Login = () => {
                 <br />
                 <input type="password" onBlur={handlePassword} placeholder="password" required/>
                 <br />
-                <span className="text-danger">{error}</span>
+                <span className="text-danger"></span>
                 <br />
                 <input className="btn btn-success" type="submit" value="Login" />
-                <br /><br />
+                <br /><span></span><br />
                 <p>I have no account!<span className="text-primary "><Link to="/register"> Register Here</Link></span></p>
                 <Link to="/login">
                 <button className="google-logo" onClick={signInUsingGoogle}><img className=" " src={googleLogo} alt="" /></button>
